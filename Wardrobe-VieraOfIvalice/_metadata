@@ -1,0 +1,8 @@
+{
+  "name" : "Wardrobe-TheVieraOfIvalice",
+  "friendlyName" : "Wardrobe - The Viera of Ivalice",
+  "description" : "Wardrobe Add-on for The Viera of Ivalica. https://community.playstarbound.com/resources/wip-the-viera-of-ivalice.1533/",
+  "author" : "AmazonValkyrie",
+  "version" : "Weaves & Waystones (1-5-18)",
+  "includes" : ["Wardrobe"]
+}
