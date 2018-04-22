@@ -1,0 +1,8 @@
+{
+  "name" : "Wardrobe-Orcana",
+  "friendlyName" : "Wardrobe - Orcana",
+  "description" : "Wardrobe Add-on for the Orcana. https://community.playstarbound.com/resources/the-orcana.2747/",
+  "author" : "Nemasys",
+  "version" : "B.6.1",
+  "includes" : ["Wardrobe"]
+}
