@@ -1,0 +1,8 @@
+{
+  "name" : "Wardrobe-FrackinUniverse",
+  "friendlyName" : "Wardrobe - Frackin' Universe",
+  "description" : "Wardrobe Add-on for Frackin' Universe. https://github.com/sayterdarkwynd/FrackinUniverse",
+  "author" : "sayter & others",
+  "version" : "5.6.2211",
+  "includes" : ["Wardrobe"]
+}
