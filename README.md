@@ -18,6 +18,7 @@ The below mods work together with the Wardrobe without an add-on. The items will
 | Mod | Author | Link | Version | Folder |
 |---|---|---|---|---|
 | Frackin' Universe | [Sayter & others](https://github.com/sayterdarkwynd/FrackinUniverse/graphs/contributors) | [PlayStarbound](https://community.playstarbound.com/resources/frackinuniverse.2920/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) | 5.6.2211 | [Wardrobe-FrackinUniverse](https://github.com/Silverfeelin/Starbound-Wardrobe-Addons/tree/master/Wardrobe-FrackinUniverse) |
+| Avali (Triage) | [Fevix, RyuujinZERO<br/>& others](https://github.com/Avali-Triage-Team/Avali/graphs/contributors) | [PlayStarbound](https://community.playstarbound.com/resources/avali-triage.2852/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=729558042) | 1.4.3 | [Wardrobe-AvaliTriage](https://github.com/Silverfeelin/Starbound-Wardrobe-Addons/tree/master/Wardrobe-AvaliTriage) |
 
 ## Contributing
 
