@@ -1,0 +1,8 @@
+{
+  "name" : "Wardrobe-LeiaOrgana",
+  "friendlyName" : "Wardrobe - Star Wars: Leia Organa",
+  "description" : "Wardrobe Add-on for Star Wars: Leia Organa, Weapons & More. https://community.playstarbound.com/resources/star-wars-leia-organa-weapons-more.1164/",
+  "author" : "AmazonValkyrie",
+  "version" : "Princess Leia has re-entered the battlefield",
+  "includes" : ["Wardrobe"]
+}
