@@ -1,0 +1,8 @@
+{
+  "name" : "Wardrobe-AvaliTriage",
+  "friendlyName" : "Wardrobe - Avali (Triage)",
+  "description" : "Wardrobe Add-on for Avali (Triage). https://community.playstarbound.com/resources/avali-triage.2852/",
+  "author" : "Fevix, RyuujinZERO & others",
+  "version" : "1.4.3",
+  "includes" : ["Wardrobe"]
+}
