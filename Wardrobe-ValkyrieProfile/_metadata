@@ -1,0 +1,8 @@
+{
+  "name" : "Wardrobe-ValkyrieProfile",
+  "friendlyName" : "Wardrobe - Valkyrie Profile",
+  "description" : "Wardrobe Add-on for Valkyrie Profile: Gear of the Destinies. https://community.playstarbound.com/resources/valkyrie-profile-gear-of-the-destinies.3385/",
+  "author" : "AmazonValkyrie",
+  "version" : "Nibelung Spear Fix",
+  "includes" : ["Wardrobe"]
+}
