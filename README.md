@@ -16,7 +16,7 @@ The below mods work together with the Wardrobe without an add-on. The items will
 ## Add-ons
 
 | Mod | Author | Link | Version | Folder |
-|---|---|---|---|
+|---|---|---|---|---|
 | Frackin' Universe | [Sayter & others](https://github.com/sayterdarkwynd/FrackinUniverse/graphs/contributors) | [PlayStarbound](https://community.playstarbound.com/resources/frackinuniverse.2920/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) | 5.6.2211 | [Wardrobe-FrackinUniverse](https://github.com/Silverfeelin/Starbound-Wardrobe-Addons/tree/master/Wardrobe-FrackinUniverse) |
 
 ## Contributing
