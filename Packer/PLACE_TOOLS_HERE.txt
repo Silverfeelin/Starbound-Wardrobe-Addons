@@ -1,0 +1,4 @@
+Place the asset packer and unpacker here.
+
+Steamapps/common/Starbound/win32/asset_packer.exe
+Steamapps/common/Starbound/win32/asset_unpacker.exe
