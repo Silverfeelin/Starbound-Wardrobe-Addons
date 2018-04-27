@@ -27,22 +27,12 @@ If ($LastExitCode -ne 0) {
   WaitAndExit 1
 }
 
-# Delete previous unzipped folder.
-DeleteFolder "AvaliTriage"
-
-# Unzip
-Unzip "AvaliTriage.zip" "AvaliTriage"
-$folder = GetFirstSubfolder "AvaliTriage"
+# Fetch wearables
+Write-Host "Fetching files from AvaliTriage.zip using WardrobeItemFetcher..." -ForegroundColor Yellow
+dotnet $PSScriptRoot\..\WardrobeItemFetcher\WardrobeItemFetcher.dll -i "AvaliTriage.zip" -o $PSScriptRoot\..\Wardrobe-AvaliTriage\wardrobe\avaliTriage.json --overwrite
 
 # Delete zip
 DeleteFile "AvaliTriage.zip"
-
-# Fetch wearables
-Write-Host "Fetching files from $folder using WardrobeItemFetcher..." -ForegroundColor Yellow
-dotnet $PSScriptRoot\..\WardrobeItemFetcher\WardrobeItemFetcher.dll -i $PSScriptRoot\AvaliTriage\$folder -o $PSScriptRoot\..\Wardrobe-AvaliTriage\wardrobe\avaliTriage.json --overwrite
-
-# Delete unzipped folder.
-DeleteFolder "AvaliTriage"
 
 # Done
 Write-Host "Done updating Wardrobe items file for Avali (Triage)!" -ForegroundColor Green
