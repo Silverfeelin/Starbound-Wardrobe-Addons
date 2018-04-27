@@ -38,7 +38,7 @@ $folder = GetFirstSubfolder("AvaliTriage")
 DeleteFile("AvaliTriage.zip")
 
 # Fetch wearables
-Write-Host "Fetching files from $folder" -ForegroundColor Yellow
+Write-Host "Fetching files from $folder using WardrobeItemFetcher..." -ForegroundColor Yellow
 dotnet $PSScriptRoot\..\WardrobeItemFetcher\WardrobeItemFetcher.dll -i $PSScriptRoot\AvaliTriage\$folder -o $PSScriptRoot\..\Wardrobe-AvaliTriage\wardrobe\avaliTriage.json --overwrite
 
 # Delete unzipped folder.
