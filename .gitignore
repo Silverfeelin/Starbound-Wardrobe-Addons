@@ -3,8 +3,6 @@
 !/WardrobeItemFetcher/PLACE_TOOL_HERE.txt
 /ModDownloader/*
 !/ModDownloader/PLACE_TOOL_HERE.txt
-/Packer/*
-!/Packer/PLACE_TOOLS_HERE.txt
 
 # Scripts Folder
 /Scripts/*/
