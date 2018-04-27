@@ -1,16 +1,11 @@
 $ErrorActionPreference = "Inquire"
+. .\Util.ps1
 
 ###############
 ## Variables ##
 ###############
 
 $previousVersion = "2.4.2"
-
-###############
-## Functions ##
-###############
-
-. .\Util.ps1
 
 ############
 ## Script ##
