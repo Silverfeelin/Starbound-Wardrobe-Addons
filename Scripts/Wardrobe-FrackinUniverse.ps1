@@ -27,23 +27,12 @@ If ($LastExitCode -ne 0) {
   WaitAndExit 1
 }
 
-# Delete previous unzipped folder.
-DeleteFolder "FrackinUniverse"
-
-# Unzip
-Write-Host "Unzipping will take quite a while because Frackin Universe is over 250 MB!" -ForegroundColor Yellow
-Unzip "FrackinUniverse.zip" "FrackinUniverse"
-$folder = GetFirstSubfolder "FrackinUniverse"
+# Fetch wearables
+Write-Host "Fetching files from FrackinUniverse.zip using WardrobeItemFetcher..." -ForegroundColor Yellow
+dotnet $PSScriptRoot\..\WardrobeItemFetcher\WardrobeItemFetcher.dll -i "FrackinUniverse.zip" -o $PSScriptRoot\..\Wardrobe-FrackinUniverse\wardrobe\frackinUniverse.json --overwrite
 
 # Delete zip
 DeleteFile "FrackinUniverse.zip"
-
-# Fetch wearables
-Write-Host "Fetching files from $folder using WardrobeItemFetcher..." -ForegroundColor Yellow
-dotnet $PSScriptRoot\..\WardrobeItemFetcher\WardrobeItemFetcher.dll -i $PSScriptRoot\FrackinUniverse\$folder -o $PSScriptRoot\..\Wardrobe-FrackinUniverse\wardrobe\frackinUniverse.json --overwrite
-
-# Delete unzipped folder.
-DeleteFolder "FrackinUniverse"
 
 # Done
 Write-Host "Done updating Wardrobe items file for Frackin Universe!" -ForegroundColor Green
