@@ -7,6 +7,9 @@ $ErrorActionPreference = "Inquire"
 
 $previousVersion = "2.4.2"
 
+$downloader = "$PSScriptRoot\..\ModDownloader\StarboundModDownloader.dll"
+$fetcher = "$PSScriptRoot\..\WardrobeItemFetcher\WardrobeItemFetcher.dll"
+
 ############
 ## Script ##
 ############
@@ -15,7 +18,7 @@ $previousVersion = "2.4.2"
 Write-Host "Downloading Avali (Triage) from GitHub using StarboundModDownloader..." -ForegroundColor Yellow
 
 # Download GitHub source code for latest release.
-dotnet $PSScriptRoot\..\ModDownloader\StarboundModDownloader.dll github -i https://github.com/Avali-Triage-Team/Avali/ -s --overwrite -v $previousVersion -o AvaliTriage.zip
+dotnet $downloader github -i https://github.com/Avali-Triage-Team/Avali/ -s --overwrite -v $previousVersion -o AvaliTriage.zip
 
 If ($LastExitCode -ne 0) {
   Write-Host "Cancelled because download failed." -ForegroundColor Yellow
@@ -24,7 +27,7 @@ If ($LastExitCode -ne 0) {
 
 # Fetch wearables
 Write-Host "Fetching files from AvaliTriage.zip using WardrobeItemFetcher..." -ForegroundColor Yellow
-dotnet $PSScriptRoot\..\WardrobeItemFetcher\WardrobeItemFetcher.dll -i "AvaliTriage.zip" -o $PSScriptRoot\..\Wardrobe-AvaliTriage\wardrobe\avaliTriage.json --overwrite
+dotnet $fetcher -i "AvaliTriage.zip" -o $PSScriptRoot\..\Wardrobe-AvaliTriage\wardrobe\avaliTriage.json --overwrite
 
 # Delete zip
 DeleteFile "AvaliTriage.zip"
