@@ -32,5 +32,5 @@ function WaitAndExit([int]$code)
 {
   Write-Host "Press any key to exit..." -ForegroundColor Yellow
   [void][System.Console]::ReadKey($true)
-  Exit($code)
+  Exit $code
 }

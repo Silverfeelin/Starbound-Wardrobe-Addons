@@ -24,27 +24,27 @@ dotnet $PSScriptRoot\..\ModDownloader\StarboundModDownloader.dll github -i https
 
 If ($LastExitCode -ne 0) {
   Write-Host "Cancelled because download failed." -ForegroundColor Yellow
-  WaitAndExit(1)
+  WaitAndExit 1
 }
 
 # Delete previous unzipped folder.
-DeleteFolder("AvaliTriage")
+DeleteFolder "AvaliTriage"
 
 # Unzip
 Unzip "AvaliTriage.zip" "AvaliTriage"
-$folder = GetFirstSubfolder("AvaliTriage")
+$folder = GetFirstSubfolder "AvaliTriage"
 
 # Delete zip
-DeleteFile("AvaliTriage.zip")
+DeleteFile "AvaliTriage.zip"
 
 # Fetch wearables
 Write-Host "Fetching files from $folder using WardrobeItemFetcher..." -ForegroundColor Yellow
 dotnet $PSScriptRoot\..\WardrobeItemFetcher\WardrobeItemFetcher.dll -i $PSScriptRoot\AvaliTriage\$folder -o $PSScriptRoot\..\Wardrobe-AvaliTriage\wardrobe\avaliTriage.json --overwrite
 
 # Delete unzipped folder.
-DeleteFolder("AvaliTriage")
+DeleteFolder "AvaliTriage"
 
 # Done
 Write-Host "Done updating Wardrobe items file for Avali (Triage)!" -ForegroundColor Green
 Write-Host "Don't forget to update the version in the _metadata." -ForegroundColor Green
-WaitAndExit(0)
+WaitAndExit 0
