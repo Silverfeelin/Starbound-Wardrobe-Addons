@@ -1,5 +1,7 @@
 Place the Framework-dependent Mod Downloader files in this folder for the scripts to work.
 
+https://github.com/Silverfeelin/Starbound-ModDownloader/releases
+
 If you don't have the .NET Core Runtime installed already:
 https://www.microsoft.com/net/download/Windows/run
 https://www.microsoft.com/net/download/linux/run
