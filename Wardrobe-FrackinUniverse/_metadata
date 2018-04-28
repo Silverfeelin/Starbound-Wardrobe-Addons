@@ -1,8 +1,11 @@
 {
-  "name" : "Wardrobe-FrackinUniverse",
-  "friendlyName" : "Wardrobe - Frackin' Universe",
-  "description" : "Wardrobe Add-on for Frackin' Universe. https://github.com/sayterdarkwynd/FrackinUniverse",
   "author" : "sayter & others",
-  "version" : "5.6.2211",
-  "includes" : ["Wardrobe"]
+  "description" : "Wardrobe Add-on for Frackin' Universe v5.6.2211.\n\nRequires both the Wardrobe and Frackin' Universe.",
+  "friendlyName" : "Wardrobe - Frackin' Universe",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372369380",
+  "name" : "Wardrobe-FrackinUniverse",
+  "steamContentId" : "1372369380",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "5.6.2211"
 }
