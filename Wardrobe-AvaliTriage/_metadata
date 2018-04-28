@@ -1,8 +1,11 @@
 {
-  "name" : "Wardrobe-AvaliTriage",
-  "friendlyName" : "Wardrobe - Avali (Triage)",
-  "description" : "Wardrobe Add-on for Avali (Triage). https://community.playstarbound.com/resources/avali-triage.2852/",
   "author" : "Fevix, RyuujinZERO & others",
-  "version" : "1.4.3",
-  "includes" : ["Wardrobe"]
+  "description" : "Wardrobe Add-on for Avali (Triage) v1.4.3.\n\nRequires both the Wardrobe and the Avali (Triage) Race Mod.\n\nNote: Some clothing items have no texture, but are still valid items (probably for armor stats). This is why you'll find some options in the Wardrobe that don't change your appearance.",
+  "friendlyName" : "Wardrobe - Avali (Triage)",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372376485",
+  "name" : "Wardrobe-AvaliTriage",
+  "steamContentId" : "1372376485",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.4.3"
 }
