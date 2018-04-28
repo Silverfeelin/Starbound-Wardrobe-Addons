@@ -12,8 +12,11 @@ The below mods work together with the Wardrobe without an add-on. The items will
 | Mod | Author | Link |
 |---|---|---|
 | Felin Costumes+ | [Kawa](https://community.playstarbound.com/members/kawa.112963/) | [PlayStarbound](https://community.playstarbound.com/resources/felin-costumes.2925/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=729427301) |
+|
 
 ## Add-ons
+
+View the add-ons available on Steam here: [Steam - Wardrobe Add-ons](https://steamcommunity.com/sharedfiles/filedetails/?id=1372702541).
 
 | Mod | Author | Link | Version | Folder |
 |---|---|---|---|---|
