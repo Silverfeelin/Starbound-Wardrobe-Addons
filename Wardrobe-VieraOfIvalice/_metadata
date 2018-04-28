@@ -1,8 +1,11 @@
 {
-  "name" : "Wardrobe-TheVieraOfIvalice",
-  "friendlyName" : "Wardrobe - The Viera of Ivalice",
-  "description" : "Wardrobe Add-on for The Viera of Ivalica. https://community.playstarbound.com/resources/wip-the-viera-of-ivalice.1533/",
   "author" : "AmazonValkyrie",
-  "version" : "Weaves & Waystones (1-5-18)",
-  "includes" : ["Wardrobe"]
+  "description" : "Wardrobe Add-on for The Viera of Ivalice.\n\nRequires both the Wardrobe and The Viera of Ivalice.",
+  "friendlyName" : "Wardrobe - The Viera of Ivalice",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372379877",
+  "name" : "Wardrobe-TheVieraOfIvalice",
+  "steamContentId" : "1372379877",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "Weaves & Waystones (1-5-18)"
 }

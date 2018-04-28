@@ -1,8 +1,11 @@
 {
-  "name" : "Wardrobe-ValkyrieProfile",
-  "friendlyName" : "Wardrobe - Valkyrie Profile",
-  "description" : "Wardrobe Add-on for Valkyrie Profile: Gear of the Destinies. https://community.playstarbound.com/resources/valkyrie-profile-gear-of-the-destinies.3385/",
   "author" : "AmazonValkyrie",
-  "version" : "Nibelung Spear Fix",
-  "includes" : ["Wardrobe"]
+  "description" : "Wardrobe Add-on for Valkyrie Profile: Gear of the Destinies.\n\nRequires both the Wardrobe and Valkyrie Profile: Gear of the Destinies.",
+  "friendlyName" : "Wardrobe - Valkyrie Profile",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372379120",
+  "name" : "Wardrobe-ValkyrieProfile",
+  "steamContentId" : "1372379120",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "Nibelung Spear Fix"
 }

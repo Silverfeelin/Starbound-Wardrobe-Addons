@@ -1,8 +1,11 @@
 {
-  "name" : "Wardrobe-PeachAndDaisy",
-  "friendlyName" : "Wardrobe - Super SB: Peach & Daisy",
-  "description" : "Wardrobe Add-on for Super Starbound: Peach & Daisy. https://community.playstarbound.com/resources/super-starbound-peach-daisy.3878/",
   "author" : "AmazonValkyrie",
-  "version" : "Through the warp pipe",
-  "includes" : ["Wardrobe"]
+  "description" : "Wardrobe Add-on for Super Starbound: Peach & Daisy.\n\nRequires both the Wardrobe and Super Starbound: Peach & Daisy.",
+  "friendlyName" : "Wardrobe - Super SB: Peach & Daisy",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372378608",
+  "name" : "Wardrobe-PeachAndDaisy",
+  "steamContentId" : "1372378608",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "Through the warp pipe"
 }

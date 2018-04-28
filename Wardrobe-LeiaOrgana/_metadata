@@ -1,8 +1,11 @@
 {
-  "name" : "Wardrobe-LeiaOrgana",
-  "friendlyName" : "Wardrobe - Star Wars: Leia Organa",
-  "description" : "Wardrobe Add-on for Star Wars: Leia Organa, Weapons & More. https://community.playstarbound.com/resources/star-wars-leia-organa-weapons-more.1164/",
   "author" : "AmazonValkyrie",
-  "version" : "Princess Leia has re-entered the battlefield",
-  "includes" : ["Wardrobe"]
+  "description" : "Wardrobe Add-on for Star Wars: Leia Organa, Weapons & More.\n\nRequires both the Wardrobe and the Star Wars: Leia Organa mod.",
+  "friendlyName" : "Wardrobe - Star Wars: Leia Organa",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372377766",
+  "name" : "Wardrobe-LeiaOrgana",
+  "steamContentId" : "1372377766",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "Princess Leia has re-entered the battlefield"
 }
