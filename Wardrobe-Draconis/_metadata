@@ -1,0 +1,9 @@
+{
+  "author" : "Notameme / Meme Trash",
+  "description" : "Wardrobe Add-on for Draconis 1.4.\n\nRequires both the Wardrobe and the Draconis mod.",
+  "friendlyName" : "Wardrobe - Draconis",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-Draconis",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.4"
+}
