@@ -38,7 +38,7 @@ If the mod is available on GitHub, the script will download the latest release f
 
 If the mod is available on PlayStarbound, the script will download the latest release from the site.
 
-You'll need to provide your `xf2_session` cookie when running the script. The downloader tool needs this to be able to access the latest download link for the mod, but will not persist it.
+You'll need to provide your `xf2_session` cookie when running the script. The downloader tool needs this to be able to access the latest download link for the mod. The cookie will not be stored.
 
 GitHub is preferred over PlayStarbound because there's no user input necessary to download the mod.
 
