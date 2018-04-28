@@ -1,0 +1,9 @@
+{
+  "author" : "GonDragon, Djinn & others",
+  "description" : "Wardrobe Add-on for Peglaci Rebirth v1.0.11.\n\nRequires both the Wardrobe and the Peglaci mod.",
+  "friendlyName" : "Wardrobe - Peglaci",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-Peglaci",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0.11"
+}
