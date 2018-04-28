@@ -55,3 +55,9 @@ The downloaded file is removed automatically unless the script is aborted or fai
 Although mods are generally distributed as zip or pak file, the Wardrobe Item Fetcher does support directories.
 
 This option can be used for add-ons that can't automatically be updated as of right now (relevant for mods distributed as `.rar` or `.tar.gz` files, for example).
+
+## Finalizing add-ons
+
+After add-ons have been updated, they can be finalized by turning them into a packed mod (`.pak`). You can do this by dragging the add-on folder on top of the `packer.bat` in the main folder.
+
+Make sure you change the path to your asset packer inside the script first!
