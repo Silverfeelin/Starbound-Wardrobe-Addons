@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Draconis 1.4.\n\nRequires both the Wardrobe and the Draconis mod.",
   "friendlyName" : "Wardrobe - Draconis",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372590622",
   "name" : "Wardrobe-Draconis",
+  "steamContentId" : "1372590622",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.4"
 }
