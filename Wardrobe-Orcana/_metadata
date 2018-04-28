@@ -1,8 +1,11 @@
 {
-  "name" : "Wardrobe-Orcana",
-  "friendlyName" : "Wardrobe - Orcana",
-  "description" : "Wardrobe Add-on for the Orcana. https://community.playstarbound.com/resources/the-orcana.2747/",
   "author" : "Nemasys",
-  "version" : "B.6.1",
-  "includes" : ["Wardrobe"]
+  "description" : "Wardrobe Add-on for The Orcana.\n\nRequires both the Wardrobe and The Orcana.",
+  "friendlyName" : "Wardrobe - The Orcana",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372380558",
+  "name" : "Wardrobe-Orcana",
+  "steamContentId" : "1372380558",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "B.6.1"
 }
