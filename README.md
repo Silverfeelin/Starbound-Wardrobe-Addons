@@ -1,6 +1,6 @@
 # Wardrobe Add-ons
 
-This repository houses mods that serve as addons for the Wardrobe mod. To use these addons, users must have both the Wardrobe mod and the mod specific to the addon.
+This repository houses mods that serve as add-ons for the Wardrobe mod. To use these add-ons, users must have both the Wardrobe mod and the mod specific to the add-on.
 
 * [Wardrobe Mod](https://github.com/Silverfeelin/Starbound-Wardrobe)
   * [Releases](https://github.com/Silverfeelin/Starbound-Wardrobe/releases)
