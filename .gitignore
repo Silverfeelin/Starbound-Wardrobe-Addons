@@ -6,5 +6,10 @@
 
 # Scripts Folder
 /Scripts/*/
-/Scripts/*.zip
-/Scripts/*.pak
+
+# Main Folder
+/packer.bat
+
+# Global
+*.pak
+*.zip
