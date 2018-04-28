@@ -39,7 +39,7 @@ We'd love some help, and there's various ways to do so!
 * **Report issues.** Does an add-on no longer work? Are the items in an add-on outdated? Please create an issue and we'll try to get the add-on updated as soon as possible.
 
 * **Add a Wardrobe item file to your own mod.** The best way to support the Wardrobe is by supporting it in the actual target mod itself. Information can be found on the [Wardrobe Item Fetcher Wiki][wifWiki]. If a mod supports the Wardrobe natively, let us know on the Issues page and we'll add it to the [Native Support](#native-support) list.<br/>
-If you aren't planning on updating your clothing any time soon, you could also just take the files from the add-on and put them in your mod!
+If you aren't planning on updating your clothing any time soon, you could also just take the wardrobe files from the add-on and put them in your mod! Make sure to add the `Wardrobe` to your metadata `includes` for the patch to work.
 
 * **Create your own add-on.** Add an add-on yourself by cloning this repository and creating a pull request! You can use an existing add-on as a template. For help with creating the items file, check out the [Wardrobe Item Fetcher Wiki][wifWiki].  
 If you're not the author of the mod, please first ask for permission! Licenses are also a good way to tell whether an add-on is acceptable.
