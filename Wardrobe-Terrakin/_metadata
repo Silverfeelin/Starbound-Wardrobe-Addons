@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for the Terrakin Race.\n\nRequires both the Wardrobe and Terrakin Race.",
+  "friendlyName" : "Wardrobe - Terrakin Race",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-Terrakin",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.4"
+}
