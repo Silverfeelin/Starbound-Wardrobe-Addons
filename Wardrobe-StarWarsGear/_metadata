@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Star Wars Gear.\n\nRequires both the Wardrobe and Star Wars Gear.",
   "friendlyName" : "Wardrobe - Star Wars Gear",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1373803550",
   "name" : "Wardrobe-StarWarsGear",
+  "steamContentId" : "1373803550",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "3.0"
 }
