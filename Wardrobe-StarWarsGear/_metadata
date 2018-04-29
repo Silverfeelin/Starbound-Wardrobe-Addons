@@ -1,0 +1,9 @@
+{
+  "author" : "Shadow",
+  "description" : "Wardrobe Add-on for Star Wars Gear.\n\nRequires both the Wardrobe and Star Wars Gear.",
+  "friendlyName" : "Wardrobe - Star Wars Gear",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-StarWarsGear",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "3.0"
+}
