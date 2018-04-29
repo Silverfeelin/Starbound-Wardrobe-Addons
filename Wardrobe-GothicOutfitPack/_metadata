@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for the Gothic Outfit Pack.\n\nRequires both the Wardrobe and Gothic Outfit Pack.",
+  "friendlyName" : "Wardrobe - Gothic Outfit Pack",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-GothicOutfitPack",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.4"
+}
