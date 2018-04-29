@@ -1,0 +1,9 @@
+{
+  "author" : "Gazlon",
+  "description" : "Wardrobe Add-on for RWBY Outfits.\n\nRequires both the Wardrobe and RWBY Outfits.",
+  "friendlyName" : "Wardrobe - RWBY Outfits",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-RWBYOutfits",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2.2"
+}
