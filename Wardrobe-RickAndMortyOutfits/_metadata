@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Rick and Morty Outfits.\n\nRequires both the Wardrobe and Rick and Morty Outfits.",
+  "friendlyName" : "Wardrobe - Rick and Morty Outfits",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-RickAndMortyOutfits",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.5"
+}
