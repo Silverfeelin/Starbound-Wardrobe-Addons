@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Maid n Butler Outfits.\n\nRequires both the Wardrobe and Maid n Butler Outfits.",
+  "friendlyName" : "Wardrobe - Maid n Butler",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-MaidnButler",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.2"
+}
