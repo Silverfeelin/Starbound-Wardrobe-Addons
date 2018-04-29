@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for RWBY Outfits.\n\nRequires both the Wardrobe and RWBY Outfits.",
   "friendlyName" : "Wardrobe - RWBY Outfits",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372948166",
   "name" : "Wardrobe-RWBYOutfits",
+  "steamContentId" : "1372948166",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "2.2"
 }
