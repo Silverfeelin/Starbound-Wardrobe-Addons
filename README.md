@@ -12,7 +12,6 @@ The below mods work together with the Wardrobe without an add-on. The items will
 | Mod | Author | Link |
 |---|---|---|
 | Felin Costumes+ | [Kawa](https://community.playstarbound.com/members/kawa.112963/) | [PlayStarbound](https://community.playstarbound.com/resources/felin-costumes.2925/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=729427301) |
-|
 
 ## Add-ons
 
@@ -32,6 +31,7 @@ View the add-ons available on Steam here: [Steam - Wardrobe Add-ons](https://ste
 | The Viera of Ivalice | [AmazonValkyrie](https://community.playstarbound.com/members/amazonvalkyrie.43284/) | [PlayStarbound](https://community.playstarbound.com/resources/wip-the-viera-of-ivalice.1533/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=732276079&searchtext=) | Weaves & Waystones (1-5-18) |
 | Zombie Race Mod Redux | [DrPvtSkittles](https://community.playstarbound.com/members/drpvtskittles.96422/) | [PlayStarbound](https://community.playstarbound.com/resources/zombie-race-mod-redux.4800/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=953122293) | 1.3 |
 |||||
+| Batman n Bruce | [DrPvtSkittles](https://community.playstarbound.com/members/drpvtskittles.96422/) | [PlayStarbound](https://community.playstarbound.com/resources/batman-n-bruce.5192/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1293306288) | 0.2 |
 | Beta Stuff | [DrPvtSkittles](https://community.playstarbound.com/members/drpvtskittles.96422/) | [PlayStarbound](https://community.playstarbound.com/resources/beta-stuff.5149/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1262375447) | 0.3.1 |
 | Grand Protector Robe+ | [DrPvtSkittles](https://community.playstarbound.com/members/drpvtskittles.96422/) | [PlayStarbound](https://community.playstarbound.com/resources/grand-protector-robe.4948/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1115847299) | 1.4.1 |
 | Skittles Mega Outfit Modpack | [DrPvtSkittles](https://community.playstarbound.com/members/drpvtskittles.96422/) | [PlayStarbound](https://community.playstarbound.com/resources/skittles-mega-outfit-modpack.5000/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1146396826&searchtext=) | 1.9 |

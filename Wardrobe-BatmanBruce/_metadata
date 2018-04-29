@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Batman n Bruce.\n\nRequires both the Wardrobe and Batman n Bruce.",
+  "friendlyName" : "Wardrobe - Batman n Bruce",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-BatmanBruce",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.2"
+}
