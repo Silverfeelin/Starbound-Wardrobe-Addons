@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for the Tacticool Gear Pack.\n\nRequires both the Wardrobe and Tacticool Gear Pack.",
   "friendlyName" : "Wardrobe - Tacticool Gear Pack",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1373545418",
   "name" : "Wardrobe-TacticoolGearPack",
+  "steamContentId" : "1373545418",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.0.8"
 }
