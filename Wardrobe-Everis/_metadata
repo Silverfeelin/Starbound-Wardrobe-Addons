@@ -1,0 +1,9 @@
+{
+  "author" : "Ruthenium",
+  "description" : "Wardrobe Add-on for the Everis Race.\n\nRequires both the Wardrobe and the Everis Race.",
+  "friendlyName" : "Wardrobe - Everis Race",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-Everis",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.3"
+}
