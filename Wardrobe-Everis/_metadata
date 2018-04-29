@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for the Everis Race.\n\nRequires both the Wardrobe and the Everis Race.",
   "friendlyName" : "Wardrobe - Everis Race",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372941101",
   "name" : "Wardrobe-Everis",
+  "steamContentId" : "1372941101",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.3"
 }
