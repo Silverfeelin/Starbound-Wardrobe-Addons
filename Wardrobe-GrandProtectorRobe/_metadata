@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Grand Protector Robe+.\n\nRequires both the Wardrobe and Grand Protector Robe+.",
+  "friendlyName" : "Wardrobe - Grand Protector Robe+",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-GrandProtectorRobe",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.4.1"
+}
