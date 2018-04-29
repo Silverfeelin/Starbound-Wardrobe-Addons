@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for the Skelekin Race.\n\nRequires both the Wardrobe and Skelekin Race.",
+  "friendlyName" : "Wardrobe - Skelekin Race",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-Skelekin",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2.0"
+}
