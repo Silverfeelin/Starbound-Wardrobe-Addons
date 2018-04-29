@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for New Protectorate Clothes.\n\nRequires both the Wardrobe and New Protectorate Clothes.",
+  "friendlyName" : "Wardrobe - New Protectorate Clothes",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-NewProtectorateClothes",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.8"
+}
