@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for the Bunnykin Race.\n\nRequires both the Wardrobe and the Bunnykin Race.",
+  "friendlyName" : "Wardrobe - Bunnykin Race",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-Bunnykin",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "3.0"
+}
