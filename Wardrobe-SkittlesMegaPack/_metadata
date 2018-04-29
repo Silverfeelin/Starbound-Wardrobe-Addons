@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Skittles Mega Outfit Modpack.\n\nRequires both the Wardrobe and Skittles Mega Outfit Modpack.",
+  "friendlyName" : "Wardrobe - Skittles Mega Pack",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-ReplaceMe",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.9"
+}
