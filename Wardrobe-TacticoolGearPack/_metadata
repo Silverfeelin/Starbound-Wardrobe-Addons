@@ -1,0 +1,9 @@
+{
+  "author" : "Artyom Volkov & Repulse",
+  "description" : "Wardrobe Add-on for the Tacticool Gear Pack.\n\nRequires both the Wardrobe and Tacticool Gear Pack.",
+  "friendlyName" : "Wardrobe - Tacticool Gear Pack",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-TacticoolGearPack",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0.8"
+}
