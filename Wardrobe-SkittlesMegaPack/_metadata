@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Skittles Mega Outfit Modpack.\n\nRequires both the Wardrobe and Skittles Mega Outfit Modpack.",
   "friendlyName" : "Wardrobe - Skittles Mega Pack",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372956526",
   "name" : "Wardrobe-ReplaceMe",
+  "steamContentId" : "1372956526",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.9"
 }

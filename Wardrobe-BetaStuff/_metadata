@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Beta Stuff.\n\nRequires both the Wardrobe and Beta Stuff.",
   "friendlyName" : "Wardrobe - Beta Stuff",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372955109",
   "name" : "Wardrobe-BetaStuff",
+  "steamContentId" : "1372955109",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "0.3.1"
 }

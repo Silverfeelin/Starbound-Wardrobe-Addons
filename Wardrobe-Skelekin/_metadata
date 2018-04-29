@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for the Skelekin Race.\n\nRequires both the Wardrobe and Skelekin Race.",
   "friendlyName" : "Wardrobe - Skelekin Race",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372956436",
   "name" : "Wardrobe-Skelekin",
+  "steamContentId" : "1372956436",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "2.0"
 }

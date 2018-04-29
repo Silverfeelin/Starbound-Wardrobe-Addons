@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Scientist Outfit Pack.\n\nRequires both the Wardrobe and Scientist Outfit Pack.",
   "friendlyName" : "Wardrobe - Scientist Outfit Pack",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372956310",
   "name" : "Wardrobe-ScientistOutfitPack",
+  "steamContentId" : "1372956310",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.4"
 }

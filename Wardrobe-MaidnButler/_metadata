@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Maid n Butler Outfits.\n\nRequires both the Wardrobe and Maid n Butler Outfits.",
   "friendlyName" : "Wardrobe - Maid n Butler",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372955674",
   "name" : "Wardrobe-MaidnButler",
+  "steamContentId" : "1372955674",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "0.2"
 }

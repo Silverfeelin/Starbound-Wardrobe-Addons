@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for the Gothic Outfit Pack.\n\nRequires both the Wardrobe and Gothic Outfit Pack.",
   "friendlyName" : "Wardrobe - Gothic Outfit Pack",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372955457",
   "name" : "Wardrobe-GothicOutfitPack",
+  "steamContentId" : "1372955457",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.4"
 }

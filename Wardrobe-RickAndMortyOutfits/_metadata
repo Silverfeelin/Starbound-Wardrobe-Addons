@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Rick and Morty Outfits.\n\nRequires both the Wardrobe and Rick and Morty Outfits.",
   "friendlyName" : "Wardrobe - Rick and Morty Outfits",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372956226",
   "name" : "Wardrobe-RickAndMortyOutfits",
+  "steamContentId" : "1372956226",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.5"
 }

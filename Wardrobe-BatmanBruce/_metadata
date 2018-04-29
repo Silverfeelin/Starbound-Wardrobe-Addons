@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Batman n Bruce.\n\nRequires both the Wardrobe and Batman n Bruce.",
   "friendlyName" : "Wardrobe - Batman n Bruce",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372954987",
   "name" : "Wardrobe-BatmanBruce",
+  "steamContentId" : "1372954987",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "0.2"
 }

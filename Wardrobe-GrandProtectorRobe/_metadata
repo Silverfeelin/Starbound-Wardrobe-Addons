@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Grand Protector Robe+.\n\nRequires both the Wardrobe and Grand Protector Robe+.",
   "friendlyName" : "Wardrobe - Grand Protector Robe+",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372955567",
   "name" : "Wardrobe-GrandProtectorRobe",
+  "steamContentId" : "1372955567",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.4.1"
 }

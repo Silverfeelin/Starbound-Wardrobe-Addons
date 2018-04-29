@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for the Bunnykin Race.\n\nRequires both the Wardrobe and the Bunnykin Race.",
   "friendlyName" : "Wardrobe - Bunnykin Race",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372955308",
   "name" : "Wardrobe-Bunnykin",
+  "steamContentId" : "1372955308",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "3.0"
 }

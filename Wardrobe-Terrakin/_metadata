@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for the Terrakin Race.\n\nRequires both the Wardrobe and Terrakin Race.",
   "friendlyName" : "Wardrobe - Terrakin Race",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372956658",
   "name" : "Wardrobe-Terrakin",
+  "steamContentId" : "1372956658",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.4"
 }

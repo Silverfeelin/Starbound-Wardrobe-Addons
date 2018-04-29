@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Zombie Race Mod Redux.\n\nRequires both the Wardrobe and Zombie Race Mod Redux.",
   "friendlyName" : "Wardrobe - Zombie Race Mod Redux",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1372956780",
   "name" : "Wardrobe-ZombieRace",
+  "steamContentId" : "1372956780",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.2"
 }
