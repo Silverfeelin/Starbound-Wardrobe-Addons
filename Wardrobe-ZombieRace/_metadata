@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Zombie Race Mod Redux.\n\nRequires both the Wardrobe and Zombie Race Mod Redux.",
+  "friendlyName" : "Wardrobe - Zombie Race Mod Redux",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-ZombieRace",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.2"
+}

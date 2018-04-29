@@ -33,6 +33,7 @@ View the add-ons available on Steam here: [Steam - Wardrobe Add-ons](https://ste
 | Star Wars: Leia Organa | [AmazonValkyrie](https://community.playstarbound.com/members/amazonvalkyrie.43284/) | [PlayStarbound](https://community.playstarbound.com/resources/star-wars-leia-organa-weapons-more.1164/updates)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=737223311) | Princess Leia has re-entered the battlefield |
 | Super Starbound: Peach & Daisy | [AmazonValkyrie](https://community.playstarbound.com/members/amazonvalkyrie.43284/) | [PlayStarbound](https://community.playstarbound.com/resources/super-starbound-peach-daisy.3878/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=736434610) | Through the Warp Pipe |
 | Valkyrie Profile: Gears of the Destinies | [AmazonValkyrie](https://community.playstarbound.com/members/amazonvalkyrie.43284/) | [PlayStarbound](https://community.playstarbound.com/resources/valkyrie-profile-gear-of-the-destinies.3385/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=746190869) | Nibelung Spear Fix |
+| Zombie Race Mod Redux | [DrPvtSkittles](https://community.playstarbound.com/members/drpvtskittles.96422/) | [PlayStarbound](https://community.playstarbound.com/resources/zombie-race-mod-redux.4800/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=953122293) | 1.3 |
 
 ## Contributing
 
