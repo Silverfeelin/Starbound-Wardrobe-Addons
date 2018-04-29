@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Beta Stuff.\n\nRequires both the Wardrobe and Beta Stuff.",
+  "friendlyName" : "Wardrobe - Beta Stuff",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-BetaStuff",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.3.1"
+}
