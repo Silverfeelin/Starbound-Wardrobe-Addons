@@ -1,0 +1,9 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for the Clownkin Race.\n\nRequires both the Wardrobe and the Clownkin Race.",
+  "friendlyName" : "Wardrobe - Clownkin Race",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-Clownkin",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.2"
+}
