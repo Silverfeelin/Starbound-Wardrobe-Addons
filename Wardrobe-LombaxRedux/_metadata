@@ -1,0 +1,9 @@
+{
+  "author" : "Cayle Polin & RoboticMasterMind",
+  "description" : "Wardrobe Add-on for Lombax Race Redux.\n\nRequires both the Wardrobe and Lombax Race Redux.",
+  "friendlyName" : "Wardrobe - Lombax Race Redux",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-LombaxRedux",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
