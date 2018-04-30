@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for the Clownkin Race.\n\nRequires both the Wardrobe and the Clownkin Race.",
   "friendlyName" : "Wardrobe - Clownkin Race",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1373968697",
   "name" : "Wardrobe-Clownkin",
+  "steamContentId" : "1373968697",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "0.2"
 }
