@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Elithian Races.\n\nRequires both the Wardrobe and the Elithian Races Mod.",
   "friendlyName" : "Wardrobe - Elithian Races",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1373929504",
   "name" : "Wardrobe-ElithianRaces",
+  "steamContentId" : "1373929504",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "2.2.2"
 }
