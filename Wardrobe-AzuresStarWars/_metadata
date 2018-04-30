@@ -1,0 +1,9 @@
+{
+  "author" : "AzureAurora",
+  "description" : "Wardrobe Add-on for Azure's Star Wars Weapons & Armour.\n\nRequires both the Wardrobe and Azure's Star Wars Weapons & Armour.",
+  "friendlyName" : "Wardrobe - Azure's Star Wars",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-AzuresStarWars",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2.0"
+}
