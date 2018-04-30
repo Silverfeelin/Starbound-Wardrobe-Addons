@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for Azure's Star Wars Weapons & Armour.\n\nRequires both the Wardrobe and Azure's Star Wars Weapons & Armour.",
   "friendlyName" : "Wardrobe - Azure's Star Wars",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1373963925",
   "name" : "Wardrobe-AzuresStarWars",
+  "steamContentId" : "1373963925",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "2.0"
 }
