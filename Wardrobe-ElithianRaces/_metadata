@@ -1,0 +1,9 @@
+{
+  "author" : "Aegonian",
+  "description" : "Wardrobe Add-on for Elithian Races.\n\nRequires both the Wardrobe and the Elithian Races Mod.",
+  "friendlyName" : "Wardrobe - Elithian Races",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-ElithianRaces",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2.2.2"
+}
