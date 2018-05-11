@@ -3,7 +3,9 @@
   "description" : "Wardrobe Add-on for the Arachne Race.\n\nRequires both the Wardrobe and Arachne Race.",
   "friendlyName" : "Wardrobe - Arachne Race",
   "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1383119210",
   "name" : "Wardrobe-Arachne",
+  "steamContentId" : "1383119210",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
   "version" : "1.10.6"
 }
