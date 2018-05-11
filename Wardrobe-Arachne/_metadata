@@ -1,0 +1,9 @@
+{
+  "author" : "Quintexial, Antyrus & others",
+  "description" : "Wardrobe Add-on for the Arachne Race.\n\nRequires both the Wardrobe and Arachne Race.",
+  "friendlyName" : "Wardrobe - Arachne Race",
+  "includes" : ["Wardrobe"],
+  "name" : "Wardrobe-Arachne",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.10.6"
+}

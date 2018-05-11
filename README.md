@@ -22,6 +22,7 @@ View the add-ons available on Steam here: [Steam - Wardrobe Add-ons](https://ste
 |||||
 | Frackin' Universe | [Sayter & others](https://github.com/sayterdarkwynd/FrackinUniverse/graphs/contributors) | [PlayStarbound](https://community.playstarbound.com/resources/frackinuniverse.2920/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) | 5.6.2211 |
 |||||
+| Arachne Race | [Quintexial, Antyrus & others](https://community.playstarbound.com/resources/wip-arachne.5035/) | [PlayStarbound](https://community.playstarbound.com/resources/wip-arachne.5035/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1164332913) | 1.10.6 |
 | Avali (Triage) | [Fevix, RyuujinZERO<br/>& others](https://github.com/Avali-Triage-Team/Avali/graphs/contributors) | [PlayStarbound](https://community.playstarbound.com/resources/avali-triage.2852/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=729558042) | 1.4.3 |
 | Bunnykin Race | [DrPvtSkittles](https://community.playstarbound.com/members/drpvtskittles.96422/) | [PlayStarbound](https://community.playstarbound.com/resources/bunnykin-race.825/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=732452461) | 3.0 |
 | Clownkin Race | [DrPvtSkittles](https://community.playstarbound.com/members/drpvtskittles.96422/) | [PlayStarbound](https://community.playstarbound.com/resources/clownkin-race.5118/)<br/>[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=1223044195) | 0.2 |
