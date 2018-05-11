@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for the Mauskin.\n\nRequires both the Wardrobe and Mauskin.",
+  "friendlyName" : "Wardrobe - Mauskin",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1383167144",
+  "name" : "Wardrobe-Mauskin",
+  "steamContentId" : "1383167144",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
