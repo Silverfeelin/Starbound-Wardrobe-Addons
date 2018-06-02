@@ -1,0 +1,11 @@
+{
+  "author" : "Motionless",
+  "description" : "Wardrobe Add-on for the Munari.\n\nRequires both the Wardrobe and the Munari race.",
+  "friendlyName" : "Wardrobe - Munari",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1400596168",
+  "name" : "Wardrobe-Munari",
+  "steamContentId" : "1400596168",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2.1.8"
+}
