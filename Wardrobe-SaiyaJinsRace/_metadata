@@ -1,0 +1,11 @@
+{
+  "author" : "Mr.Guwawo",
+  "description" : "Wardrobe Add-on for the SaiyaJins Race.\n\nRequires both the Wardrobe and SaiyaJins Race.",
+  "friendlyName" : "Wardrobe - SaiyaJins Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1400588287",
+  "name" : "Wardrobe-SaiyaJinsRace",
+  "steamContentId" : "1400588287",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "4.1"
+}
