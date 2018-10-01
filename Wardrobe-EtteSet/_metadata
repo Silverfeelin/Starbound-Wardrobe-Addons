@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for the Ette Set.\n\nRequires both the Wardrobe and the Ette Set.",
+  "friendlyName" : "Wardrobe - Ette Set",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1528162966",
+  "name" : "Wardrobe-EtteSet",
+  "steamContentId" : "1528162966",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.3"
+}
