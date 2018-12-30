@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for the Taurikin.\n\nRequires both the Wardrobe and Taurikin.",
+  "friendlyName" : "Wardrobe - Taurikin",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1608657845",
+  "name" : "Wardrobe-Taurikin",
+  "steamContentId" : "1608657845",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.2"
+}
