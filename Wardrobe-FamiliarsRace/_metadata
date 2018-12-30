@@ -1,0 +1,13 @@
+{
+  "author": "Bitcoon",
+  "description": "Wardrobe Add-on for Familiars Race.\n\nRequires both the Wardrobe and Familiars Race.",
+  "friendlyName": "Wardrobe - Familiars Race",
+  "includes": [
+    "Wardrobe"
+  ],
+  "link": "steam://url/CommunityFilePage/1608739475",
+  "name": "Wardrobe-FamiliarsRace",
+  "steamContentId": "1608739475",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "2.51"
+}
