@@ -1,0 +1,11 @@
+{
+  "author" : "Chumpanzee",
+  "description" : "Wardrobe Add-on for OneShot Items.\n\nRequires both the Wardrobe and OneShot Items.",
+  "friendlyName" : "Wardrobe - OneShot Items",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1609544771",
+  "name" : "Wardrobe-OneShotItems",
+  "steamContentId" : "1609544771",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.3"
+}
