@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Skittle's Christmas Goodies.\n\nRequires both the Wardrobe and Skittle's Christmas Goodies.",
+  "friendlyName" : "Wardrobe - Skittle's Christmas Goodies",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1609648754",
+  "name" : "Wardrobe-SkittlesChristmasGoodies",
+  "steamContentId" : "1609648754",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}

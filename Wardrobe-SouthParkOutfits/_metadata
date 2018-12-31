@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for South Park Outfits.\n\nRequires both the Wardrobe and South Park Outfits.",
+  "friendlyName" : "Wardrobe - South Park Outfits",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1609648980",
+  "name" : "Wardrobe-SouthParkOutfits",
+  "steamContentId" : "1609648980",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}

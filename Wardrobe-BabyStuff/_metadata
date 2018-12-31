@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Baby Stuff.\n\nRequires both the Wardrobe and Baby Stuff.",
+  "friendlyName" : "Wardrobe - Baby Stuff",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1609649445",
+  "name" : "Wardrobe-BabyStuff",
+  "steamContentId" : "1609649445",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
