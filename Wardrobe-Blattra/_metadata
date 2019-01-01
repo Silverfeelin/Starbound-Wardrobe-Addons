@@ -1,0 +1,11 @@
+{
+  "author": "I Said No",
+  "description": "Wardrobe Add-on for Blattra.\n\nRequires both the Wardrobe and Blattra.",
+  "friendlyName": "Wardrobe - Blattra",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-Blattra",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "1.3"
+}
