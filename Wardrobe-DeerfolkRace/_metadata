@@ -1,0 +1,11 @@
+{
+  "author": "sassykatt777",
+  "description": "Wardrobe Add-on for Deerfolk Race.\n\nRequires both the Wardrobe and Deerfolk Race.\n\nPlease note that the 'legs' section seems to hold some unused clothing.",
+  "friendlyName": "Wardrobe - Deerfolk Race",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-DeerfolkRace",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "24"
+}
