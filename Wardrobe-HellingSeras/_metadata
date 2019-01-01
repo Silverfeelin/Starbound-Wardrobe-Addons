@@ -1,0 +1,11 @@
+{
+  "author": "Gazlon",
+  "description": "Wardrobe Add-on for Hellsing Seras Pack.\n\nRequires both the Wardrobe and Hellsing Seras Pack.",
+  "friendlyName": "Wardrobe - Hellsing Seras Pack",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-HellingSeras",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "0.5"
+}
