@@ -1,0 +1,11 @@
+{
+  "author": "Valkyrion",
+  "description": "Wardrobe Add-on for The Tauren of Warcraft.\n\nRequires both the Wardrobe and The Tauren of Warcraft.",
+  "friendlyName": "Wardrobe - The Tauren of Warcraft",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-TaurenOfWarcraft",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "2.0"
+}
