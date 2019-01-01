@@ -1,0 +1,11 @@
+{
+  "author": "rookil",
+  "description": "Wardrobe Add-on for Arsenalbound - Indix Race Pack.\n\nRequires both the Wardrobe and Arsenalbound - Indix Race Pack.",
+  "friendlyName": "Wardrobe - Arsenalbound - Indix Race Pack",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-ArsenalboundIndixRace",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "1.6"
+}

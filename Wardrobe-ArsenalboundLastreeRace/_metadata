@@ -1,0 +1,11 @@
+{
+  "author": "rookil",
+  "description": "Wardrobe Add-on for Arsenalbound - Lastree Race.\n\nRequires both the Wardrobe and Arsenalbound - Lastree Race.",
+  "friendlyName": "Wardrobe - Arsenalbound - Lastree Race",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-ArsenalboundLastreeRace",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "1.22"
+}
