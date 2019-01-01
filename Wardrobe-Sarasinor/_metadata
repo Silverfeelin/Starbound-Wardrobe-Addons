@@ -1,0 +1,11 @@
+{
+  "author": "I Said No",
+  "description": "Wardrobe Add-on for Sarasinor.\n\nRequires both the Wardrobe and Sarasinor.",
+  "friendlyName": "Wardrobe - Sarasinor",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-Sarasinor",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "1.3"
+}
