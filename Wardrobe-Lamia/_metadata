@@ -1,0 +1,11 @@
+{
+  "author" : "Antyrus",
+  "description" : "Wardrobe Add-on for Lamia Race.\n\nRequires both the Wardrobe and Lamia Race.",
+  "friendlyName" : "Wardrobe - Lamia Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1610113758",
+  "name" : "Wardrobe-Lamia",
+  "steamContentId" : "1610113758",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.9.1"
+}
