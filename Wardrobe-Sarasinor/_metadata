@@ -1,11 +1,11 @@
 {
-  "author": "I Said No",
-  "description": "Wardrobe Add-on for Sarasinor.\n\nRequires both the Wardrobe and Sarasinor.",
-  "friendlyName": "Wardrobe - Sarasinor",
-  "includes": [
-    "Wardrobe"
-  ],
-  "name": "Wardrobe-Sarasinor",
-  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
-  "version": "1.3"
+  "author" : "I Said No",
+  "description" : "Wardrobe Add-on for Sarasinor.\n\nRequires both the Wardrobe and Sarasinor.",
+  "friendlyName" : "Wardrobe - Sarasinor",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1610807969",
+  "name" : "Wardrobe-Sarasinor",
+  "steamContentId" : "1610807969",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.3"
 }

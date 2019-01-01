@@ -1,11 +1,11 @@
 {
-  "author": "iamzid, Asheru Swiftwind",
-  "description": "Wardrobe Add-on for Lyceen Race.\n\nRequires both the Wardrobe and Lyceen Race.",
-  "friendlyName": "Wardrobe - Lyceen Race",
-  "includes": [
-    "Wardrobe"
-  ],
-  "name": "Wardrobe-Lyceen",
-  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
-  "version": "1.25"
+  "author" : "iamzid, Asheru Swiftwind",
+  "description" : "Wardrobe Add-on for Lyceen Race.\n\nRequires both the Wardrobe and Lyceen Race.",
+  "friendlyName" : "Wardrobe - Lyceen Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1610804983",
+  "name" : "Wardrobe-Lyceen",
+  "steamContentId" : "1610804983",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.25"
 }

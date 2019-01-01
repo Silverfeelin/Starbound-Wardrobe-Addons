@@ -1,11 +1,11 @@
 {
-  "author": "Cursed Dreamer / Ernesto Roy",
-  "description": "Wardrobe Add-on for Dreamers Race.\n\nRequires both the Wardrobe and Dreamers Race.\n\nPlease note that the Dreamers Race adds multiple species and have different versions of the same clothing. Although you're free to try them all, here's some keywords you can search for: 'dreamer', 'dvarian', 'emlos', 'ethereos', 'facebox'.",
-  "friendlyName": "Wardrobe - Dreamers Race",
-  "includes": [
-    "Wardrobe"
-  ],
-  "name": "Wardrobe-DreamersRace",
-  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
-  "version": "2.0"
+  "author" : "Cursed Dreamer / Ernesto Roy",
+  "description" : "Wardrobe Add-on for Dreamers Race.\n\nRequires both the Wardrobe and Dreamers Race.\n\nPlease note that the Dreamers Race adds multiple species and has different versions of the same clothing. Although you're free to try them all, here's some keywords you can search for: 'dreamer', 'dvarian', 'emlos', 'ethereos', 'facebox'.",
+  "friendlyName" : "Wardrobe - Dreamers Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1610807037",
+  "name" : "Wardrobe-DreamersRace",
+  "steamContentId" : "1610807037",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2.0"
 }
