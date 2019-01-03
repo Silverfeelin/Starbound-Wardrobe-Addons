@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Military Outfit Pack.\n\nRequires both the Wardrobe and Military Outfit Pack.",
+  "friendlyName" : "Wardrobe - Military Outfit Pack",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1613099926",
+  "name" : "Wardrobe-MilitaryOutfitPack",
+  "steamContentId" : "1613099926",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
