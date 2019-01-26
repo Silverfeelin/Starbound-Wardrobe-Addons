@@ -1,0 +1,11 @@
+{
+  "author" : "Crow Faced Wolf",
+  "description" : "Wardrobe Add-on for The Alrune Race.\n\nRequires both the Wardrobe and The Alrune Race.",
+  "friendlyName" : "Wardrobe - The Alrune Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1616818432",
+  "name" : "Wardrobe-AlruneRace",
+  "steamContentId" : "1616818432",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1"
+}
