@@ -1,0 +1,11 @@
+{
+  "author" : "Darkarts3000",
+  "description" : "Wardrobe Add-on for Deep Kingdom.\n\nRequires both the Wardrobe and Deep Kingdom.",
+  "friendlyName" : "Wardrobe - Deep Kingdom",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1637578636",
+  "name" : "Wardrobe-DeepKingdom",
+  "steamContentId" : "1637578636",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
