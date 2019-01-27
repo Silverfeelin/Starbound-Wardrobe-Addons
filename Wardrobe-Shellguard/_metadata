@@ -1,0 +1,11 @@
+{
+  "author" : "Travelling Merchant",
+  "description" : "Wardrobe Add-on for Shellguard.\n\nRequires both the Wardrobe and Shellguard.",
+  "friendlyName" : "Wardrobe - Shellguard",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1637618267",
+  "name" : "Wardrobe-Shellguard",
+  "steamContentId" : "1637618267",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.3"
+}
