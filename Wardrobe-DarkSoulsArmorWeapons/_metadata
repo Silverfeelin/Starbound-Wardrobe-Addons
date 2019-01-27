@@ -1,0 +1,11 @@
+{
+  "author" : "Magnusito",
+  "description" : "Wardrobe Add-on for Dark Souls Armor & Weapons.\n\nRequires both the Wardrobe and Dark Souls Armor & Weapons.\n\nThis mod contains two versions of armors: one has stats and one doesn't.",
+  "friendlyName" : "Wardrobe - Dark Souls Armor & Weapons",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1637556182",
+  "name" : "Wardrobe-DarkSoulsArmorWeapons",
+  "steamContentId" : "1637556182",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.2"
+}
