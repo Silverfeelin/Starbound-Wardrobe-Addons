@@ -1,0 +1,11 @@
+{
+  "author" : "DeTirNomero",
+  "description" : "Wardrobe Add-on for Minidresses.\n\nRequires both the Wardrobe and Minidresses.",
+  "friendlyName" : "Wardrobe - Minidresses",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1638186199",
+  "name" : "Wardrobe-Minidresses",
+  "steamContentId" : "1638186199",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.3"
+}
