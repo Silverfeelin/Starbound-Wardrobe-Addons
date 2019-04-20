@@ -1,0 +1,11 @@
+{
+  "author" : "Pantherine",
+  "description" : "Wardrobe Add-on for Halo Ultra v2.\n\nRequires both the Wardrobe and Halo Ultra v2.",
+  "friendlyName" : "Wardrobe - Halo Ultra v2",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1718614616",
+  "name" : "Wardrobe-HaloUltra",
+  "steamContentId" : "1718614616",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "3.0.4"
+}

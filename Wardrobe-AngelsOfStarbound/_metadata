@@ -1,0 +1,11 @@
+{
+  "author" : "Omeruin",
+  "description" : "Wardrobe Add-on for The Angels of Starbound.\n\nRequires both the Wardrobe and The Angels of Starbound.",
+  "friendlyName" : "Wardrobe - The Angels of Starbound",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1718614809",
+  "name" : "Wardrobe-AngelsOfStarbound",
+  "steamContentId" : "1718614809",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.1.0"
+}

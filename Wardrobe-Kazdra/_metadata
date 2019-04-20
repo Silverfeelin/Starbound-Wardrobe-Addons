@@ -1,0 +1,11 @@
+{
+  "author" : "Hiuki",
+  "description" : "Wardrobe Add-on for The Kazdra.\n\nRequires both the Wardrobe and The Kazdra.",
+  "friendlyName" : "Wardrobe - The Kazdra",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1718614414",
+  "name" : "Wardrobe-Kazdra",
+  "steamContentId" : "1718614414",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.3.2"
+}

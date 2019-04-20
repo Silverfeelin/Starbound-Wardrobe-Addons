@@ -1,0 +1,11 @@
+{
+  "author" : "FilipeK",
+  "description" : "Wardrobe Add-on for The Wanderers.\n\nRequires both the Wardrobe and The Wanderers.",
+  "friendlyName" : "Wardrobe - The Wanderers",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1718614187",
+  "name" : "Wardrobe-Wanderers",
+  "steamContentId" : "1718614187",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.3.1"
+}

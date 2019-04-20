@@ -1,0 +1,11 @@
+{
+  "author" : "Shiroko",
+  "description" : "Wardrobe Add-on for Shiroko's Dye-able Headphones.\n\nRequires both the Wardrobe and Shiroko's Dye-able Headphones.",
+  "friendlyName" : "Wardrobe - Shiroko's Dye-able Headphones",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1718613932",
+  "name" : "Wardrobe-ShirokoHeadphones",
+  "steamContentId" : "1718613932",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0.2"
+}

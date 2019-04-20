@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Merr-kin.\n\nRequires both the Wardrobe and Merr-kin.",
+  "friendlyName" : "Wardrobe - Merr-kin",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1718613673",
+  "name" : "Wardrobe-Merrkin",
+  "steamContentId" : "1718613673",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1.2"
+}
