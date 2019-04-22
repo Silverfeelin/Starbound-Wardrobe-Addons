@@ -1,0 +1,11 @@
+{
+  "author" : "GeekBoy02 & Sir Bumpleton",
+  "description" : "Wardrobe Add-on for KawaiiStuff+.\n\nRequires both the Wardrobe and KawaiiStuff+.",
+  "friendlyName" : "Wardrobe - KawaiiStuff+",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1720283530",
+  "name" : "Wardrobe-KawaiiStuff",
+  "steamContentId" : "1720283530",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.1.1"
+}

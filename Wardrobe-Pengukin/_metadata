@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Pengukin Race.\n\nRequires both the Wardrobe and Pengukin Race.",
+  "friendlyName" : "Wardrobe - Pengukin Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1720283637",
+  "name" : "Wardrobe-Pengukin",
+  "steamContentId" : "1720283637",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
