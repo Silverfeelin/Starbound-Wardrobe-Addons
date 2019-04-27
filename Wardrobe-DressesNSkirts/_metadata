@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Dresses n Skirts Pack.\n\nRequires both the Wardrobe and Dresses n Skirts Pack.",
+  "friendlyName" : "Wardrobe - Dresses n Skirts Pack",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1724729549",
+  "name" : "Wardrobe-DressesNSkirts",
+  "steamContentId" : "1724729549",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
