@@ -1,0 +1,11 @@
+{
+  "author" : "Febilian",
+  "description" : "Wardrobe Add-on for Gravity Falls Wearables.\n\nRequires both the Wardrobe and Gravity Falls Wearables.",
+  "friendlyName" : "Wardrobe - Gravity Falls Wearables",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1725114039",
+  "name" : "Wardrobe-GravityFallsWearables",
+  "steamContentId" : "1725114039",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
