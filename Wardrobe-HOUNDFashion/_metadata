@@ -1,0 +1,11 @@
+{
+  "author" : "Eiko",
+  "description" : "Wardrobe Add-on for HOUND Fashion.\n\nRequires both the Wardrobe and HOUND Fashion.",
+  "friendlyName" : "Wardrobe - HOUND Fashion",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1739774769",
+  "name" : "Wardrobe-HOUNDFashion",
+  "steamContentId" : "1739774769",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.8"
+}
