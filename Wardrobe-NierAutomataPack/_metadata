@@ -1,0 +1,11 @@
+{
+  "author" : "Gazlon",
+  "description" : "Wardrobe Add-on for Nier: Automata Pack.\n\nRequires both the Wardrobe and Nier: Automata Pack.",
+  "friendlyName" : "Wardrobe - Nier: Automata Pack",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1740032379",
+  "name" : "Wardrobe-NierAutomataPack",
+  "steamContentId" : "1740032379",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.2"
+}
