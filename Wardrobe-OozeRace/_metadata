@@ -1,0 +1,11 @@
+{
+  "author" : "Gentooze",
+  "description" : "Wardrobe Add-on for Ooze Race.\n\nRequires both the Wardrobe and Ooze Race.",
+  "friendlyName" : "Wardrobe - Ooze Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1741428193",
+  "name" : "Wardrobe-OozeRace",
+  "steamContentId" : "1741428193",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
