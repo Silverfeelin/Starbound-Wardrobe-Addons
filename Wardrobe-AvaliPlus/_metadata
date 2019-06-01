@@ -1,5 +1,5 @@
 {
-  "author" : "FlyIN",
+  "author" : "FlyIN & HCR",
   "description" : "Wardrobe Add-on for Avali Plus.\n\nRequires both the Wardrobe and Avali Plus.",
   "friendlyName" : "Wardrobe - Avali Plus",
   "includes" : ["Wardrobe"],
@@ -7,5 +7,5 @@
   "name" : "Wardrobe-AvaliPlus",
   "steamContentId" : "1637533409",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
-  "version" : "1.0"
+  "version" : "1.88.1"
 }
