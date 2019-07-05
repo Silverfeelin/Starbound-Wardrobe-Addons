@@ -1,11 +1,11 @@
 {
-  "author": "Applesass",
-  "description": "Wardrobe Add-on for Starsuits.\n\nRequires both the Wardrobe and Starsuits.",
-  "friendlyName": "Wardrobe - Starsuits",
-  "includes": [
-    "Wardrobe"
-  ],
-  "name": "Wardrobe-Starsuits",
-  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
-  "version": "2.5"
+  "author" : "Applesass",
+  "description" : "Wardrobe Add-on for Starsuits.\n\nRequires both the Wardrobe and Starsuits.",
+  "friendlyName" : "Wardrobe - Starsuits",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1792981440",
+  "name" : "Wardrobe-Starsuits",
+  "steamContentId" : "1792981440",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2.5"
 }
