@@ -1,0 +1,11 @@
+{
+  "author": "Applesass",
+  "description": "Wardrobe Add-on for Starsuits.\n\nRequires both the Wardrobe and Starsuits.",
+  "friendlyName": "Wardrobe - Starsuits",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-Starsuits",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "2.5"
+}
