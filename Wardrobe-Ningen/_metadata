@@ -1,0 +1,11 @@
+{
+  "author" : "Opalie",
+  "description" : "Wardrobe Add-on for Ningen.\n\nRequires both the Wardrobe and Ningen race mod.\n\n(The mod on the preview image for the different colors are part of Green Dye Suite https://steamcommunity.com/sharedfiles/filedetails/?id=1666272764) ",
+  "friendlyName" : "Wardrobe - Ningen",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1793984241",
+  "name" : "Wardrobe-Ningen",
+  "steamContentId" : "1793984241",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
