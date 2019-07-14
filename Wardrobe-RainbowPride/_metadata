@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Rainbow Pride.\n\nRequires both the Wardrobe and Rainbow Pride.",
+  "friendlyName" : "Wardrobe - Rainbow Pride",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1803604996",
+  "name" : "Wardrobe-RainbowPride",
+  "steamContentId" : "1803604996",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
