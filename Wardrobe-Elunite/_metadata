@@ -1,0 +1,11 @@
+{
+  "author": "Omnija & Sotaeko",
+  "description": "Wardrobe Add-on for Elunite Race.\n\nRequires both the Wardrobe and Elunite Race Mod.",
+  "friendlyName": "Wardrobe - Elunite",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-Elunite",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "1.0.0"
+}
