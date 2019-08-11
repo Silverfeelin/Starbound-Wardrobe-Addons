@@ -1,0 +1,11 @@
+{
+  "author" : "Steven Steel & others",
+  "description" : "Wardrobe Add-on for Project: Rin and the Relics of the Three Houses.\n\nRequires both the Wardrobe and Project: Rin and the Relics of the Three Houses.",
+  "friendlyName" : "Wardrobe - Project: Rin and the Relics of the Three Houses",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1831980868",
+  "name" : "Wardrobe-ProjectRin",
+  "steamContentId" : "1831980868",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
