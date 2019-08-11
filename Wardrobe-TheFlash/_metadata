@@ -1,0 +1,11 @@
+{
+  "author" : "assassinwolfmg7",
+  "description" : "Wardrobe Add-on for The Flash.\n\nRequires both the Wardrobe and The Flash.",
+  "friendlyName" : "Wardrobe - The Flash",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1831710703",
+  "name" : "Wardrobe-TheFlash",
+  "steamContentId" : "1831710703",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1.9.2"
+}
