@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Mannikin.\n\nRequires both the Wardrobe and Mannikin.",
+  "friendlyName" : "Wardrobe - Mannikin",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1831676450",
+  "name" : "Wardrobe-Mannikin",
+  "steamContentId" : "1831676450",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
