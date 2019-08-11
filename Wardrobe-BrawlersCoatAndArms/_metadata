@@ -1,0 +1,11 @@
+{
+  "author" : "Eastrea",
+  "description" : "Wardrobe Add-on for Brawler's Coat and Arms.\n\nRequires both the Wardrobe and Brawler's Coat and Arms.",
+  "friendlyName" : "Wardrobe - Brawler's Coat and Arms",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1831710089",
+  "name" : "Wardrobe-BrawlersCoatAndArms",
+  "steamContentId" : "1831710089",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.5.1"
+}
