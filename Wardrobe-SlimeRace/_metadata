@@ -1,0 +1,11 @@
+{
+  "author" : "hieru_chan",
+  "description" : "Wardrobe Add-on for Slime Race.\n\nRequires both the Wardrobe and Slime Race.",
+  "friendlyName" : "Wardrobe - Slime Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1831710319",
+  "name" : "Wardrobe-SlimeRace",
+  "steamContentId" : "1831710319",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2017-06-18"
+}
