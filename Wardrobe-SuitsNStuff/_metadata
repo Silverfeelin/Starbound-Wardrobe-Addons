@@ -1,0 +1,11 @@
+{
+  "author": "DrPvtSkittles",
+  "description": "Wardrobe Add-on for Suits n Stuff Pack.\n\nRequires both the Wardrobe and Suits n Stuff Pack.",
+  "friendlyName": "Wardrobe - Suits n Stuff Pack",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-SuitsNStuff",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "0.1"
+}
