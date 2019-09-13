@@ -1,11 +1,11 @@
 {
-  "author": "DrPvtSkittles",
-  "description": "Wardrobe Add-on for Suits n Stuff Pack.\n\nRequires both the Wardrobe and Suits n Stuff Pack.",
-  "friendlyName": "Wardrobe - Suits n Stuff Pack",
-  "includes": [
-    "Wardrobe"
-  ],
-  "name": "Wardrobe-SuitsNStuff",
-  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
-  "version": "0.1"
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Suits n Stuff Pack.\n\nRequires both the Wardrobe and Suits n Stuff Pack.",
+  "friendlyName" : "Wardrobe - Suits n Stuff Pack",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1861931172",
+  "name" : "Wardrobe-SuitsNStuff",
+  "steamContentId" : "1861931172",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
 }
