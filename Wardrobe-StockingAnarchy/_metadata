@@ -1,0 +1,11 @@
+{
+  "author" : "TigerFestival1988",
+  "description" : "Wardrobe Add-on for Stocking Anarchy Costumes.\n\nRequires both the Wardrobe and Stocking Anarchy Costumes.",
+  "friendlyName" : "Wardrobe - Stocking Anarchy Costumes",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1881196139",
+  "name" : "Wardrobe-StockingAnarchy",
+  "steamContentId" : "1881196139",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1"
+}
