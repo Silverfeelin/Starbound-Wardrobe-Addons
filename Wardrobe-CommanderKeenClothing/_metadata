@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Commander Keen Clothing.\n\nRequires both the Wardrobe and Commander Keen Clothing.",
+  "friendlyName" : "Wardrobe - Commander Keen Clothing",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1883477263",
+  "name" : "Wardrobe-CommanderKeenClothing",
+  "steamContentId" : "1883477263",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
