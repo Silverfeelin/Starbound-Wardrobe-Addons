@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Bubble Bobble Outfits.\n\nRequires both the Wardrobe and Bubble Bobble Outfits.",
+  "friendlyName" : "Wardrobe - Bubble Bobble Outfits",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1888371176",
+  "name" : "Wardrobe-BubbleBobbleOutfits",
+  "steamContentId" : "1888371176",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
