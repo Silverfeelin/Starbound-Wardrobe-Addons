@@ -1,0 +1,11 @@
+{
+  "author" : "Fruzstrated",
+  "description" : "Wardrobe Add-on for Illustrious Apparel.\n\nRequires both the Wardrobe and Illustrious Apparel.",
+  "friendlyName" : "Wardrobe - Illustrious Apparel",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1893241592",
+  "name" : "Wardrobe-IllustriousApparel",
+  "steamContentId" : "1893241592",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "rev2"
+}
