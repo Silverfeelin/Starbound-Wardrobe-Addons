@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Bubblekin.\n\nRequires both the Wardrobe and Bubblekin.",
+  "friendlyName" : "Wardrobe - Bubblekin",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1911685670",
+  "name" : "Wardrobe-Bubblekin",
+  "steamContentId" : "1911685670",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1"
+}
