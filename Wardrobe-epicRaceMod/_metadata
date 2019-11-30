@@ -1,0 +1,11 @@
+{
+  "author" : "pat",
+  "description" : "Wardrobe Add-on for epic race mod!!!1!\n\nRequires both the Wardrobe and epic race mod!!!1!\nWhy? Because yes.",
+  "friendlyName" : "Wardrobe - epic race mod!!!1!",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1924658548",
+  "name" : "Wardrobe-epicRaceMod",
+  "steamContentId" : "1924658548",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "yes"
+}
