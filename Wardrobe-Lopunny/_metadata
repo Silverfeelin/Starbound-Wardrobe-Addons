@@ -1,0 +1,11 @@
+{
+  "author": "Mackinz",
+  "description": "Wardrobe Add-on for Lopunny Improvements.\n\nRequires both the Wardrobe and Lopunny Improvements.",
+  "friendlyName": "Wardrobe - Lopunny Improvements",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-Lopunny",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "1.41"
+}
