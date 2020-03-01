@@ -1,0 +1,11 @@
+{
+  "author" : "Omeruin",
+  "description" : "Wardrobe Add-on for Nebulac Race.\n\nRequires both the Wardrobe and Nebulac Race.",
+  "friendlyName" : "Wardrobe - Nebulac Race",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2011215721",
+  "name" : "Wardrobe-Nebulac",
+  "steamContentId" : "2011215721",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0.2"
+}
