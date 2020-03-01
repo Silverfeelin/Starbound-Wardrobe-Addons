@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Bunkin.\n\nRequires both the Wardrobe and Bunkin.",
+  "friendlyName" : "Wardrobe - Bunkin",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2011228809",
+  "name" : "Wardrobe-Bunkin",
+  "steamContentId" : "2011228809",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
