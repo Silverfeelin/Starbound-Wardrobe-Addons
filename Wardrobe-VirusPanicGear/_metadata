@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Virus Panic Gear.\n\nRequires both the Wardrobe and Virus Panic Gear.",
+  "friendlyName" : "Wardrobe - Virus Panic Gear",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2032726181",
+  "name" : "Wardrobe-VirusPanicGear",
+  "steamContentId" : "2032726181",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
