@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Wings and Things.\n\nRequires both the Wardrobe and Wings and Things.",
+  "friendlyName" : "Wardrobe - Wings and Things",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2121310932",
+  "name" : "Wardrobe-WingsAndThings",
+  "steamContentId" : "2121310932",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1.1"
+}

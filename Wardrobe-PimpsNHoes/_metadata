@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Pimps n Hoes.\n\nRequires both the Wardrobe and Pimps n Hoes.",
+  "friendlyName" : "Wardrobe - Pimps n Hoes",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2112640111",
+  "name" : "Wardrobe-PimpsNHoes",
+  "steamContentId" : "2112640111",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
