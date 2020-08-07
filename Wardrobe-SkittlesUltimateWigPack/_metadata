@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Skittles Ultimate Wig Pack.\n\nRequires both the Wardrobe and Skittles Ultimate Wig Pack.",
+  "friendlyName" : "Wardrobe - Skittles Ultimate Wig Pack",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2190547492",
+  "name" : "Wardrobe-SkittlesUltimateWigPack",
+  "steamContentId" : "2190547492",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.1"
+}
