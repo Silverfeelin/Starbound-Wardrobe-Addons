@@ -1,0 +1,11 @@
+{
+  "author" : "DrPvtSkittles",
+  "description" : "Wardrobe Add-on for Crewkin.\n\nRequires both the Wardrobe and Crewkin.",
+  "friendlyName" : "Wardrobe - Crewkin",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2275396410",
+  "name" : "Wardrobe-Crewkin",
+  "steamContentId" : "2275396410",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "0.2"
+}
