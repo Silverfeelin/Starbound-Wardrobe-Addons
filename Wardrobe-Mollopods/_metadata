@@ -1,11 +1,11 @@
 {
-  "author": "Saint Apollyon",
-  "description": "Wardrobe Add-on for Mollopods!.\n\nRequires both the Wardrobe and Mollopods!.",
-  "friendlyName": "Wardrobe - Mollopods!",
-  "includes": [
-    "Wardrobe"
-  ],
-  "name": "Wardrobe-Mollopods",
-  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
-  "version": "2"
+  "author" : "Saint Apollyon",
+  "description" : "Wardrobe Add-on for Mollopods!.\n\nRequires both the Wardrobe and Mollopods!.",
+  "friendlyName" : "Wardrobe - Mollopods!",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2600139483",
+  "name" : "Wardrobe-Mollopods",
+  "steamContentId" : "2600139483",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "2"
 }
