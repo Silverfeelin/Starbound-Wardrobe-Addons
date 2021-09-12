@@ -1,0 +1,11 @@
+{
+  "author" : "Kiero Ashkore",
+  "description" : "Wardrobe Add-on for Lombax Revival.\n\nRequires both the Wardrobe and Lombax Revival.",
+  "friendlyName" : "Wardrobe - Lombax Revival",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/1374448099",
+  "name" : "Wardrobe-LombaxRevival",
+  "steamContentId" : "1374448099",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.32"
+}

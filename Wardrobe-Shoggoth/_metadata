@@ -1,0 +1,11 @@
+{
+  "author": "Sir Bumpleton, Redstark Magnusson & saint apollyon",
+  "description": "Wardrobe Add-on for Shoggoth.\n\nRequires both the Wardrobe and Shoggoth.",
+  "friendlyName": "Wardrobe - Shoggoth",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-Shoggoth",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "1.1.0"
+}
