@@ -1,0 +1,11 @@
+{
+  "author": "Maple Cat",
+  "description": "Wardrobe Add-on for Spirit Tree Race.\n\nRequires both the Wardrobe and Spirit Tree Race.",
+  "friendlyName": "Wardrobe - Spirit Tree Race",
+  "includes": [
+    "Wardrobe"
+  ],
+  "name": "Wardrobe-SpiritTreeRace",
+  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
+  "version": "1.64"
+}
