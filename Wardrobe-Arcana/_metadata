@@ -1,11 +1,11 @@
 {
-  "author": "Sva",
-  "description": "Wardrobe Add-on for Arcana.\n\nRequires both the Wardrobe and Arcana.",
-  "friendlyName": "Wardrobe - Arcana",
-  "includes": [
-    "Wardrobe"
-  ],
-  "name": "Wardrobe-Arcana",
-  "tags": "Cheats and God Items|User Interface|Armor and Clothes",
-  "version": "1.0.0.0"
+  "author" : "Sva",
+  "description" : "Wardrobe Add-on for Arcana.\n\nRequires both the Wardrobe and Arcana.",
+  "friendlyName" : "Wardrobe - Arcana",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2799226698",
+  "name" : "Wardrobe-Arcana",
+  "steamContentId" : "2799226698",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0.0.0"
 }
