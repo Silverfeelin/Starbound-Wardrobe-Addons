@@ -1,0 +1,11 @@
+{
+  "author" : "Marigi",
+  "description" : "Wardrobe Add-on for Wearable Pet Collars!.\n\nRequires both the Wardrobe and Wearable Pet Collars!.",
+  "friendlyName" : "Wardrobe - Wearable Pet Collars!",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2829808781",
+  "name" : "Wardrobe-WearablePetCollars",
+  "steamContentId" : "2829808781",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.4"
+}
