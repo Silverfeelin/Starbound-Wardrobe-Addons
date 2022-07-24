@@ -1,0 +1,11 @@
+{
+  "author" : "Window Novakid",
+  "description" : "Wardrobe Add-on for Fragments of Ruin.\n\nRequires both the Wardrobe and Fragments of Ruin.",
+  "friendlyName" : "Wardrobe - Fragments of Ruin",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2839740598",
+  "name" : "Wardrobe-FragmentsOfRuin",
+  "steamContentId" : "2839740598",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
