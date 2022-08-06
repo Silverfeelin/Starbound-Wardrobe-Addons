@@ -1,0 +1,11 @@
+{
+  "author" : "tigerfestival1988",
+  "description" : "Wardrobe Add-on for Tiger's Clothes and Hairstyles.\n\nRequires both the Wardrobe and Tiger's Clothes and Hairstyles.",
+  "friendlyName" : "Wardrobe - Tiger's Clothes and Hairstyles",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/2845341450",
+  "name" : "Wardrobe-TigersClothesAndHairstyles",
+  "steamContentId" : "2845341450",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "1.0"
+}
