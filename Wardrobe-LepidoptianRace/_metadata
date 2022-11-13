@@ -1,11 +1,11 @@
 {
   "author" : "Zanna",
-  "description" : "Wardrobe Add-on for Lepidoptian Race.\n\nRequires both the Wardrobe and Lepidoptian Race.",
-  "friendlyName" : "Wardrobe - Lepidoptian Race",
+  "description" : "Wardrobe Add-on for Lepidia.\n\nRequires both the Wardrobe and Lepidia.",
+  "friendlyName" : "Wardrobe - Lepidia",
   "includes" : ["Wardrobe"],
   "link" : "steam://url/CommunityFilePage/1831966731",
   "name" : "Wardrobe-LepidoptianRace",
   "steamContentId" : "1831966731",
   "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
-  "version" : "1.5"
+  "version" : "1.9.4"
 }
