@@ -1,0 +1,11 @@
+{
+  "author" : "Ripto",
+  "description" : "Wardrobe Add-on for Deerfolk Unbound: Fauns and Satyrs.\n\nRequires both the Wardrobe and Deerfolk Unbound: Fauns and Satyrs.",
+  "friendlyName" : "Wardrobe - Deerfolk Unbound: Fauns and Satyrs",
+  "includes" : ["Wardrobe"],
+  "link" : "steam://url/CommunityFilePage/3098957230",
+  "name" : "Wardrobe-FaunsAndSatyrs",
+  "steamContentId" : "3098957230",
+  "tags" : "Cheats and God Items|User Interface|Armor and Clothes",
+  "version" : "3.5"
+}
